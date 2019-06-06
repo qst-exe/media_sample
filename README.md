@@ -2,4 +2,4 @@
 
 簡単なテキスト・画像投稿用アプリです。
 
-[デプロイ先（編集中）](https://media-sample.herokuapp.com/)
+[デプロイ先](https://media-sample.herokuapp.com/)
