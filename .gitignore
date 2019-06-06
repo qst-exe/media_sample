@@ -25,3 +25,5 @@
 .idea/workspace.xml
 .idea/*.iml
 /spring/*.pid
+# アップロードされたテスト画像を無視する
+public/uploads/micropost/picture
